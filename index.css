@@ -1,0 +1,13 @@
+body {
+    background-color: darkgrey;
+}
+
+.cuadro{
+    background-color: white;
+    width: 400px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+    
+}
