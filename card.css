@@ -1,0 +1,12 @@
+body{
+    background-color: darkgray;
+}
+
+.mensaje{
+    width: 400px;
+    padding: 20px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+    border-radius: 10px;
+}
